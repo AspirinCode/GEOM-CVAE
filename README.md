@@ -16,12 +16,4 @@ The AID1706 Bioassay data for COVID-19 in PubChem database (https://pubchem.ncbi
 
 <P>
 <b>Reference:</b> <br>
-[1]. @article{Miha2019Shapebased,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Skalic, Miha and Jim\'{e}nez, Jos\'{e} and Sabbadin, Davide and Fabritiis, Gianni De},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Shape-Based Generative Modeling for de Novo Drug Design},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; journal = {Journal of Chemical Information and Modeling},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; volume = {59},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; number = {3},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pages = {1205-1214},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2019}<br>
-  &nbsp;&nbsp;&nbsp; }
+Li, C., Yao, J., Wei, W., Niu, Z., Zeng, X., Li, J. and Wang, J., 2022. Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder. IEEE Transactions on Neural Networks and Learning Systems.
